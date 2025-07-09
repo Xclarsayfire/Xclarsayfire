@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xclarsayfire
+- 👋 Hi, I’m @Jabu
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on my own futur plans
